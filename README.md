@@ -135,7 +135,7 @@ projectml1/
 Clone the repository:
 
 ```bash
-git clone 
+git clone Explainable-Industrial-Fault-Diagnosis.git
 ```
 
 Navigate to the project directory:
